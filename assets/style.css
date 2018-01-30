@@ -1,0 +1,347 @@
+@media only screen and (max-width: 980px) {
+head {
+    margin: auto;
+    width: 100%
+}
+.top {
+    margin: 0px;
+    padding: 0px;
+    align-content: center;
+    float: middle;
+    color: #333;
+    background: #fff;
+    width: 100%;
+    height: 90px;
+    border-bottom: 2px solid #cccccc;
+    
+}
+.name {
+    margin-left: 120px;
+    margin-right: 400px;
+    padding-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: white;
+    height: 65px;
+    float: left;
+    text-align: center;
+    width: 400px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    display: table-cell;
+}
+div {
+    width: 30%;
+}
+
+a {
+    padding: 8px;
+}
+.topnav {
+    top: 0%;
+}
+.topnav {
+    background-color: #fff;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-left: 600px;
+}
+
+.topnav a {
+    float: left;
+    color: #a5a09c;
+    text-align: center;
+    padding: 34px 16px;
+    text-decoration: none;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.body {
+    background-image: url("https://pbs.twimg.com/media/DUAZToeVwAAnJpe.jpg");
+}
+
+#wrapper {
+    padding-top: 20px;
+    width: 100%;
+    float: middle;
+}
+#first {
+    padding: 15px;
+    background-color: #fff;
+    width: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    border: 2px #777777;
+    margin-left: 120px;
+    float: left;
+    border: #dddddd solid 2px;
+}
+#second {
+    padding: 15px;
+    background-color: #fff;
+    width: 270px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    margin-right: 120px;
+    margin-left: 40px;
+    border: 2px #7c8084;
+    float: left;
+    border: #dddddd solid 2px;
+}
+
+hr {
+    border-top: 2px solid #ddd;
+}
+
+footer {
+    margin-top: 650px;
+    width: 100%;
+    height: 120px;
+    background-color: #666;
+    color: #ddd;
+    border-top: 7px solid #4aaaa5;
+}
+
+img {
+padding-right: 15px;
+padding-bottom: 15px;
+}
+}
+
+@media only screen and (max-width: 760px) {
+head {
+    margin: auto;
+    width: 100%
+}
+.top {
+    margin: 0px;
+    padding: 0px;
+    align-content: center;
+    float: middle;
+    color: #333;
+    background: #fff;
+    width: 100%;
+    height: 90px;
+    border-bottom: 2px solid #cccccc;
+    
+}
+.name {
+    margin-left: 120px;
+    margin-right: 400px;
+    padding-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: white;
+    height: 65px;
+    float: left;
+    text-align: center;
+    width: 400px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    display: table-cell;
+}
+div {
+    width: 30%;
+}
+
+a {
+    padding: 8px;
+}
+.topnav {
+    top: 0%;
+}
+.topnav {
+    background-color: #fff;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-left: 600px;
+}
+
+.topnav a {
+    float: left;
+    color: #a5a09c;
+    text-align: center;
+    padding: 34px 16px;
+    text-decoration: none;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.body {
+    background-image: url("https://pbs.twimg.com/media/DUAZToeVwAAnJpe.jpg");
+}
+
+#wrapper {
+    padding-top: 20px;
+    width: 100%;
+    float: middle;
+}
+#first {
+    padding: 15px;
+    background-color: #fff;
+    width: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    border: 2px #777777;
+    margin-left: 120px;
+    float: left;
+    border: #dddddd solid 2px;
+}
+#second {
+    padding: 15px;
+    background-color: #fff;
+    width: 270px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    margin-right: 120px;
+    margin-left: 40px;
+    border: 2px #7c8084;
+    float: left;
+    border: #dddddd solid 2px;
+}
+
+hr {
+    border-top: 2px solid #ddd;
+}
+
+footer {
+    margin-top: 650px;
+    width: 100%;
+    height: 120px;
+    background-color: #666;
+    color: #ddd;
+    border-top: 7px solid #4aaaa5;
+}
+
+img {
+padding-right: 15px;
+padding-bottom: 15px;
+}
+}
+
+@media only screen and (max-width: 640px) {
+head {
+    margin: auto;
+    width: 100%
+}
+.top {
+    margin: 0px;
+    padding: 0px;
+    align-content: center;
+    float: middle;
+    color: #333;
+    background: #fff;
+    width: 100%;
+    height: 90px;
+    border-bottom: 2px solid #cccccc;
+    
+}
+.name {
+    margin-left: 120px;
+    margin-right: 400px;
+    padding-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: white;
+    height: 65px;
+    float: left;
+    text-align: center;
+    width: 400px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    display: table-cell;
+}
+div {
+    width: 30%;
+}
+
+a {
+    padding: 8px;
+}
+.topnav {
+    top: 0%;
+}
+.topnav {
+    background-color: #fff;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-left: 600px;
+}
+
+.topnav a {
+    float: left;
+    color: #a5a09c;
+    text-align: center;
+    padding: 34px 16px;
+    text-decoration: none;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.body {
+    background-image: url("https://pbs.twimg.com/media/DUAZToeVwAAnJpe.jpg");
+}
+
+#wrapper {
+    padding-top: 20px;
+    width: 100%;
+    float: middle;
+}
+#first {
+    padding: 15px;
+    background-color: #fff;
+    width: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    border: 2px #777777;
+    margin-left: 120px;
+    float: left;
+    border: #dddddd solid 2px;
+}
+#second {
+    padding: 15px;
+    background-color: #fff;
+    width: 270px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    margin-right: 120px;
+    margin-left: 40px;
+    border: 2px #7c8084;
+    float: left;
+    border: #dddddd solid 2px;
+}
+
+hr {
+    border-top: 2px solid #ddd;
+}
+
+footer {
+    margin-top: 650px;
+    width: 100%;
+    height: 120px;
+    background-color: #666;
+    color: #ddd;
+    border-top: 7px solid #4aaaa5;
+}
+
+img {
+padding-right: 15px;
+padding-bottom: 15px;
+}
+}
